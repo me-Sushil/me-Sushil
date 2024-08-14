@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=me-sushil&label=Profile%20views&color=0e75b6&style=flat" alt="me-sushil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=me-Sushil&label=Profile%20views&color=0e75b6&style=flat" alt="me-Sushil" /> </p>
 
 
 - 📫 How to reach me: **girbahadurbk123@gmail.com**
