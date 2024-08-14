@@ -12,9 +12,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=me-sushil&label=Profile%20views&color=0e75b6&style=flat" alt="me-sushil" /> </p>
 
 
-- 📫 How to reach me **girbahadurbk123@gmail.com**
-- 👀 I’m interested in Mobile Application Development, Software Development, Ethical Hacking, Artificial Intelligence, and Machine Learning.
-- ⚡ Fun fact **Call me "Sushil" and you'll instantly earn my favor. 😉**
+- 📫 How to reach me: **girbahadurbk123@gmail.com**
+- 👀 I’m interested in: Mobile Application Development, Software Development, Ethical Hacking, Artificial Intelligence, and Machine Learning.
+- ⚡ Fun fact: **Call me "Sushil" and you'll instantly earn my favor. 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
