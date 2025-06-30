@@ -17,15 +17,11 @@
 </p>
 
 
-<div style="display: flex; justify-content: flex-start; gap: 40px; flex-wrap: nowrap;"><img src="https://github-readme-streak-stats.herokuapp.com?user=me-Sushil&theme=radical" width="440" height="196" alt="GitHub Streak Stats"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=me-Sushil&layout=compact&card_width=360&langs_count=5&theme=radical&hide_border=false" width="384" height="196" alt="Top Languages"/></div>
+<div style="display: flex; justify-content: flex-start; gap: 40px; flex-wrap: nowrap;"><img src="https://github-readme-streak-stats.herokuapp.com?user=me-Sushil&theme=radical" width="438" height="196" alt="GitHub Streak Stats"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=me-Sushil&layout=compact&card_width=360&langs_count=5&theme=radical&hide_border=false" width="382" height="196" alt="Top Languages"/></div>
+
+<!-- <div style="display: flex; justify-content: flex-start; gap: 40px; flex-wrap: nowrap;"><img src="https://github-readme-streak-stats.herokuapp.com?user=me-Sushil&theme=radical" width="440" height="196" alt="GitHub Streak Stats"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=me-Sushil&layout=compact&card_width=360&langs_count=5&theme=radical&hide_border=false" width="384" height="196" alt="Top Languages"/></div> -->
 
 
-<!-- <div align="center">-->
-<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=me-Sushil&theme=dracula" />  dracula-->
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=me-Sushil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-<!--   <img  src = "https://github-readme-streak-stats.herokuapp.com?user=me-Sushil&theme=radical"width="480" height="196" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=me-Sushil&locale=en&hide_title=false&layout=compact&card_width=120&langs_count=5&theme=radical&hide_border=false" height="186" alt="languages graph"  />
-</div>-->
 
 ###
 <h4 align="center">Visitor's count :eyes:</h4>
