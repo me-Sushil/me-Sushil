@@ -18,7 +18,7 @@
 
 
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap;">
+<div align="center" style="display: flex; justify-content: left; gap: 20px; flex-wrap: nowrap;">
 
   <!-- GitHub Streak Stats -->
   <img 
