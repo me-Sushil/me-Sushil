@@ -2,12 +2,12 @@
 <h1 align="center">Hi 👋, I'm Gir Bahadur B.K. @me-Sushil.</h1>
 <h3 align="center">A passionate developer from Nepal.</h3>
 
-
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=me-Sushil&theme=dracula&no-frame=true&row=1&column=6" />
+</p>
 
 
 
-### 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
