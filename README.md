@@ -3,6 +3,8 @@
 <h3 align="center">A passionate developer from Nepal.</h3>
 
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=me-Sushil&theme=dracula" />
+
 
 <img src="https://github-profile-trophy.vercel.app/?username=me-Sushil&theme=dracula&no-frame=true&row=1&column=6" />
 
