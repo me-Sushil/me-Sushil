@@ -3,9 +3,7 @@
 <h3 align="center">A passionate developer from Nepal.</h3>
 
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=me-Sushil&show_icons=true&theme=dracula&count_private=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-Sushil&layout=compact&theme=dracula" height="150"/>
+<img src="https://raw.githubusercontent.com/me-Sushil/me-Sushil/output/github-contribution-grid-snake.svg" />
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=me-Sushil&theme=dracula&no-frame=true&row=1&column=6" />
