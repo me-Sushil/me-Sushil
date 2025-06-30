@@ -23,7 +23,7 @@
   <!-- GitHub Streak Stats -->
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=me-Sushil&theme=radical" 
-    width="480" 
+    width="380" 
     height="196" 
     alt="GitHub Streak Stats"
   />
@@ -31,7 +31,7 @@
   <!-- Top Languages -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=me-Sushil&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=5&theme=radical&hide_border=false" 
-    width="480" 
+    width="380" 
     height="196" 
     alt="Top Languages"
   />
