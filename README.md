@@ -12,10 +12,6 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/me-Sushil/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=me-Sushil&label=Profile%20views&color=0e75b6&style=flat" alt="me-Sushil" /> </p>
-
-
 - 📫 How to reach me: **girbahadurbk123@gmail.com**
 - 👀 I’m interested in: Web Development, Software Development, Ethical Hacking, Artificial Intelligence, and Machine Learning.
 - ⚡ Fun fact: **Call me "Sushil" and you'll instantly earn my favor. 😉**
