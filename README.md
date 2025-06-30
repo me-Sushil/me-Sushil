@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Gir Bahadur B.K. @me-Sushil.</h1>
 <h3 align="center">A passionate developer from Nepal.</h3>
 
-<img  src = "https://github-readme-streak-stats.herokuapp.com?user=me-Sushil&theme=radical" />
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=me-Sushil&theme=dracula&no-frame=true&row=1&column=6" />
@@ -22,7 +21,8 @@
 
 <div align="center">
 <!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=me-Sushil&theme=dracula" />-->
-  <img src="https://github-readme-stats.vercel.app/api?username=me-Sushil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> 
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=me-Sushil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+  <img  src = "https://github-readme-streak-stats.herokuapp.com?user=me-Sushil&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=me-Sushil&locale=en&hide_title=false&layout=compact&card_width=120&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
