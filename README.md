@@ -69,10 +69,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="40" height="40"/>
   </a>
 
-  <!-- Microsoft Office -->
-  <a href="https://www.microsoft.com/en/microsoft-365" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_Logo_%282013-2019%29.svg" alt="Microsoft Office" width="40" height="40"/>
-  </a>
+ 
 
   <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
