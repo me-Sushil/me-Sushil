@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gir Bahadur B.K. @me-Sushil.</h1>
 <h3 align="center">A passionate developer from Nepal.</h3>
 
-<img src="https://www.codewars.com/users/me-Sushil/badges/large" />
+<img  src = "https://github-readme-streak-stats.herokuapp.com?user=me-Sushil&theme=radical" />
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=me-Sushil&theme=dracula&no-frame=true&row=1&column=6" />
