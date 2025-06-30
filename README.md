@@ -10,7 +10,7 @@
 ###
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/me-Sushil/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=me-Sushil&label=Profile%20views&color=0e75b6&style=flat" alt="me-Sushil" /> </p>
