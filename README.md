@@ -18,25 +18,10 @@
 
 
 
-<div align="center" style="display: flex; align-item: flex-start; gap: 20px; flex-wrap: nowrap;">
 
-  <!-- GitHub Streak Stats -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=me-Sushil&theme=radical" 
-    width="380" 
-    height="196" 
-    alt="GitHub Streak Stats"
-  />
+   
+<div style="display: flex; justify-content: flex-start; gap: 20px; flex-wrap: nowrap;"><img src="https://github-readme-streak-stats.herokuapp.com?user=me-Sushil&theme=radical" width="390" height="196" alt="GitHub Streak Stats"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=me-Sushil&layout=compact&card_width=480&langs_count=5&theme=radical&hide_border=false" width="390" height="196" alt="Top Languages"/></div>
 
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=me-Sushil&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=5&theme=radical&hide_border=false" 
-    width="380" 
-    height="196" 
-    alt="Top Languages"
-  />
-
-</div>
 
 <!-- <div align="center">-->
 <!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=me-Sushil&theme=dracula" />  dracula-->
