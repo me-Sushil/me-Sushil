@@ -16,8 +16,9 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 </p>
 
+<!--<img src="https://github-readme-streak-stats.herokuapp.com?user=me-Sushil&theme=radical" />-->
 
-<div style="display: flex; justify-content: flex-start; gap: 40px; flex-wrap: nowrap;"><img src="https://github-readme-streak-stats.herokuapp.com?user=me-Sushil&theme=radical" width="438" height="196" alt="GitHub Streak Stats"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=me-Sushil&layout=compact&card_width=360&langs_count=5&theme=radical&hide_border=false" width="382" height="196" alt="Top Languages"/></div>
+<div style="display: flex; justify-content: flex-start; gap: 40px; flex-wrap: nowrap;"><img src="https://github-readme-stats.vercel.app/api?username=me-Sushil&show_icons=true&theme=radical" width="438" height="196" alt="GitHub Streak Stats"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=me-Sushil&layout=compact&card_width=360&langs_count=5&theme=radical&hide_border=false" width="382" height="196" alt="Top Languages"/></div>
 
 <!-- <div style="display: flex; justify-content: flex-start; gap: 40px; flex-wrap: nowrap;"><img src="https://github-readme-streak-stats.herokuapp.com?user=me-Sushil&theme=radical" width="440" height="196" alt="GitHub Streak Stats"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=me-Sushil&layout=compact&card_width=360&langs_count=5&theme=radical&hide_border=false" width="384" height="196" alt="Top Languages"/></div> -->
 
