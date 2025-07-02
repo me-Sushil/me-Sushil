@@ -26,6 +26,9 @@
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/me-Sushil/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center" style="font-size: 28px; color: #FF4500; font-family: monospace;">
+  👁️ Visitor's Count: <span style="border: 2px solid #FF4500; padding: 4px 12px; border-radius: 6px;">14532</span>
+</p>
 
 - 📫 How to reach me: **girbahadurbk123@gmail.com**
 - 👀 I’m interested in: Web Development, Software Development, Ethical Hacking, Artificial Intelligence, and Machine Learning.
