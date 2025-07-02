@@ -26,9 +26,15 @@
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/me-Sushil/count.svg" alt="AnhellO :: Visitor's Count" /></p>
-<p align="center" style="font-size: 28px; color: #FF4500; font-family: monospace;">
-  👁️ Visitor's Count: <span style="border: 2px solid #FF4500; padding: 4px 12px; border-radius: 6px;">14532</span>
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="160" height="40">
+    <rect width="160" height="40" rx="5" ry="5" fill="#555"/>
+    <rect x="80" width="80" height="40" rx="5" ry="5" fill="#4c1"/>
+    <text x="40" y="25" fill="#fff" font-family="Verdana" font-size="14" text-anchor="middle">Visitors</text>
+    <text x="120" y="25" fill="#fff" font-family="Verdana" font-size="14" text-anchor="middle">14532</text>
+  </svg>
 </p>
+
 
 - 📫 How to reach me: **girbahadurbk123@gmail.com**
 - 👀 I’m interested in: Web Development, Software Development, Ethical Hacking, Artificial Intelligence, and Machine Learning.
