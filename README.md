@@ -20,15 +20,6 @@
 
 <!-- <div style="display: flex; justify-content: flex-start; gap: 40px; flex-wrap: nowrap;"><img src="https://github-readme-streak-stats.herokuapp.com?user=me-Sushil&theme=radical" width="440" height="196" alt="GitHub Streak Stats"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=me-Sushil&layout=compact&card_width=360&langs_count=5&theme=radical&hide_border=false" width="384" height="196" alt="Top Languages"/></div> -->
 
-
-
-###
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://your-image-host.com/visitor-counter.png" alt="AnhellO :: Visitor's Count" /></p>
-
-
-
 - 📫 How to reach me: **girbahadurbk123@gmail.com**
 - 👀 I’m interested in: Web Development, Software Development, Ethical Hacking, Artificial Intelligence, and Machine Learning.
 - ⚡ Fun fact: **Call me "Sushil" and you'll instantly earn my favor. 😉**
