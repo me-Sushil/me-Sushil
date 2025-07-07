@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Gir Bahadur B.K. @me-Sushil.</h1>
+<h1 align="center">Hi 👋, I'm Gir Sushil Bishowkarma @me-Sushil.</h1>
 <h3 align="center">A passionate developer from Nepal.</h3>
 
 
