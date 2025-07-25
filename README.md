@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm GS Bishowkarma @me-Sushil.</h1>
+<h1 align="center">Hi 👋, I'm Sushil Bishowkarma @me-Sushil.</h1>
 <h3 align="center">A passionate developer from Nepal.</h3>
 
 
@@ -22,7 +22,7 @@
 
 
 - 👀 I’m interested in: Web Development, Software Development, Ethical Hacking, Artificial Intelligence, and Machine Learning.
-- ⚡ Fun fact: **Call me "Sushil" and you'll instantly earn my favor. 😉**
+<!-- ⚡ Fun fact: **Call me "Sushil" and you'll instantly earn my favor. 😉** -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
