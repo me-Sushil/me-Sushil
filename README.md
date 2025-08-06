@@ -21,7 +21,7 @@
 <!-- <div style="display: flex; justify-content: flex-start; gap: 40px; flex-wrap: nowrap;"><img src="https://github-readme-streak-stats.herokuapp.com?user=me-Sushil&theme=radical" width="440" height="196" alt="GitHub Streak Stats"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=me-Sushil&layout=compact&card_width=360&langs_count=5&theme=radical&hide_border=false" width="384" height="196" alt="Top Languages"/></div> -->
 
 
-- 👀 I’m interested in: Web Development, Software Development and Ethical Hacking.
+ <p align="center">👀 I’m interested in: Web Development, Software Development and Ethical Hacking.</p>
 <!-- ⚡ Fun fact: **Call me "Sushil" and you'll instantly earn my favor. 😉** -->
 
 <h3 align="center">Connect with me:</h3>
