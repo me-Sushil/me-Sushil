@@ -4,12 +4,9 @@
 <p align="center">
 <img src="https://www.codewars.com/users/me-Sushil/badges/large"/>
 </p>
-<!-- <p align="center"> -->
+<p align="center"> 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/me-Sushil?theme=dark&font=Karma)
-
-<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-me-Sushil-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/me-Sushil/)-->
-<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/me-Sushil) -->
-<!-- </p> -->
+</p>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=me-Sushil&theme=radical&no-frame=true&row=1&column=6" />
 </p>
