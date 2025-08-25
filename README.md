@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Sushil Bishowkarma @me-Sushil.</h1>
 <h3 align="center">A passionate developer from Nepal.</h3>
-
+<p align="center">
 <img src="https://www.codewars.com/users/me-Sushil/badges/large"/>
-
+</p>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=me-Sushil&theme=radical&no-frame=true&row=1&column=6" />
 </p>
