@@ -26,7 +26,6 @@
 
 
  <p align="center">👀 I’m interested in: Web Development, Software Development and Ethical Hacking.</p>
-<!-- ⚡ Fun fact: **Call me "Sushil" and you'll instantly earn my favor. 😉** -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
