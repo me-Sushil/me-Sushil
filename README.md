@@ -31,10 +31,10 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=me-Sushil&theme=radical" width="450" height="200" alt="GitHub Streak Stats"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=me-Sushil&theme=radical" width="450" height="185" alt="GitHub Streak Stats"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=me-Sushil&layout=compact&card_width=360&langs_count=5&theme=radical&hide_border=false" width="390" height="219" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=me-Sushil&layout=compact&card_width=360&langs_count=5&theme=radical&hide_border=false" width="390" height="185" alt="Top Languages"/>
     </td>
   </tr>
 </table>
