@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
 </p>
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=me-Sushil&theme=radical" width="435" height="195" alt="GitHub Streak Stats"/>
