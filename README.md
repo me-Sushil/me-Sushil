@@ -40,7 +40,7 @@
 </table>
 
 
- <p align="center">👀 I’m interested in: Web Development, Software Development and Ethical Hacking.</p>
+ <p align="center">👀 I’m interested in: Web Development, AI-driven Software Development, and Ethical Hacking.</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
