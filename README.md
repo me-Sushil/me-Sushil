@@ -28,7 +28,12 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
 </p>
 
-<div style="display: flex; justify-content: flex-start; gap: 40px; flex-wrap: nowrap;"><img src="https://github-readme-streak-stats.herokuapp.com?user=me-Sushil&theme=radical" width="435" height="195" alt="GitHub Streak Stats"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=me-Sushil&layout=compact&card_width=360&langs_count=5&theme=radical&hide_border=false" width="375" height="190" alt="Top Languages"/></div>
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: nowrap;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=me-Sushil&theme=radical" width="435" height="195" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=me-Sushil&layout=compact&card_width=360&langs_count=5&theme=radical&hide_border=false" width="375" height="195" alt="Top Languages"/>
+</div>
+
+<!-- <div style="display: flex; justify-content: flex-start; gap: 40px; flex-wrap: nowrap;"><img src="https://github-readme-streak-stats.herokuapp.com?user=me-Sushil&theme=radical" width="435" height="195" alt="GitHub Streak Stats"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=me-Sushil&layout=compact&card_width=360&langs_count=5&theme=radical&hide_border=false" width="375" height="190" alt="Top Languages"/></div> -->
 <!-- <p align="center">
   <table align="center">
     <tr>
