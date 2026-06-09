@@ -8,7 +8,8 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/me-Sushil?theme=dark&font=Karma)
 </p> -->
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=me-Sushil&theme=radical&no-frame=true&row=1&column=6" />
+ <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=me-Sushil&theme=radical&no-frame=true&row=1&column=6" /> -->
 </p>
 
 <p align="center">
